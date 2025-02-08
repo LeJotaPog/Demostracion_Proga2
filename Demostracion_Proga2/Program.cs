@@ -16,6 +16,9 @@ namespace Demostracion_Proga2
             Console.WriteLine("Hola Mundo 2");
             Console.WriteLine("Hola Mundo 3");
 
+            Console.ReadLine();
+
+
         }
     }
 }
